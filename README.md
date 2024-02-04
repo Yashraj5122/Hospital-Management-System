@@ -20,11 +20,7 @@ Features
     Patient Details: Fetch required details of a particular patient.
     Bill Generation: Prepare bills for patients at the end of checkout.
     Data Retrieval: Fetch and show data from various related tables using joins.
-    Optimization:
-        Views/Materialized Views: Utilize views to optimize repeated read operations.
-        Indexing: Indexes created on frequently queried columns.
-        Stored Procedures: Use stored procedures for bill generation.
-        Triggers: Triggers to indicate when patients' medical insurance limit has expired.
+
 
 Implementation
 
