@@ -13,8 +13,6 @@ The database schema includes the following tables:
     DateDimension: Stores date details.
     PatientVisits_Fact: Fact table storing patient visit information.
 
-![Star Schema]()
-
 Features
 
     User Roles: Roles such as Admin, Doctor, Nurse, and Patient can be registered.
